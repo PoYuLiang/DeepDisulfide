@@ -28,7 +28,7 @@ To reproduce the training process and results presented in the paper, please fol
 
 **Step 1: Prepare Data**
 Download the preprocessed data from the following link:
-* [Link to be added]
+* [Link TBD - Data upload in progress]
 
 **Step 2: Training**
 After downloading the data, run the initial training script:
