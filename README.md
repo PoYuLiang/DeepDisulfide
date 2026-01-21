@@ -27,8 +27,14 @@ If you only want to run inference on your own protein sequences to predict disul
 To reproduce the training process and results presented in the paper, please follow the steps below.
 
 **Step 1: Prepare Data**
-Download the preprocessed data from the following link:
-* [Link TBD - Data upload in progress]
+
+1. Download the preprocessed data from the following link:
+   * [Link TBD - Data upload in progress]
+
+2. Unzip the downloaded data files under the project directory:
+```bash
+unzip data.zip
+```   
 
 **Step 2: Training**
 After downloading the data, run the initial training script:
